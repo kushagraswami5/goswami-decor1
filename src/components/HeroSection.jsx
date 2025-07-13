@@ -4,7 +4,6 @@ export default function HeroSection() {
   return (
     <section
       className="bg-cover bg-center bg-no-repeat text-white py-32 px-6"
-      style={{ backgroundImage: "url('/images/hero-bg.png')" }}
     >
       <div className="max-w-4xl mx-auto text-center bg-black bg-opacity-50 p-10 rounded-lg">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">
